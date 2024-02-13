@@ -4,6 +4,8 @@
 
 🌱 I’m currently learning ... The Odin Project
 
+## 🛠  Technologies
+
 <!--
 **Churtified/Churtified** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
