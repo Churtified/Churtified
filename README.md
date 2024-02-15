@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [haka](https://github.com/Churtified/haka)
 
-- 🌱 I’m currently learning **The Odin Project, FreeCodeCamp**
+- 🌱 I’m currently learning **The Odin Project, FreeCodeCamp, and working on personal projects**
 
 - 👯 I’m looking to collaborate on [haka](https://github.com/Churtified/haka)
 
