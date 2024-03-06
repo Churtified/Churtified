@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **The Odin Project, FreeCodeCamp, and working on personal projects**
 
-- I'm currently contributing to **The Odin Project**
+- 🤚 I'm currently contributing to **The Odin Project**
 
 - 👯 I’m looking to collaborate on [haka](https://github.com/Churtified/haka)
 
